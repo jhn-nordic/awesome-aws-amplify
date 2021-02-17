@@ -360,3 +360,6 @@ __Check out the Amplify Discord server__
 
 - [AWS Amplify with NextJS](https://github.com/vercel/next.js/tree/canary/examples/with-aws-amplify)
 - [AWS Amplify and Typescript with NextJS](https://github.com/vercel/next.js/tree/canary/examples/with-aws-amplify-typescript)
+
+#### jhns additions
+- [Developing and testing GraphQL APIs, Storage and Functions with Amplify Framework Local Mocking features](https://aws.amazon.com/blogs/mobile/amplify-framework-local-mocking/)
